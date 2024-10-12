@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-## About me 
+# About me 
 
-Hi! I am currently an undergraduate student in Wuhan University, majoring in Software Engineering. I am working on my graduate project under the supervison of [Xiangbin Teng](https://www.psy.cuhk.edu.hk/index.php/component/sppagebuilder/?view=page&id=558)
+Hi! I am currently a final-year undergraduate student in Wuhan University, majoring in Software Engineering. 
+
+<!-- I am working on my graduate project under the supervison of [Xiangbin Teng](https://www.psy.cuhk.edu.hk/index.php/component/sppagebuilder/?view=page&id=558) -->
 

@@ -12,25 +12,23 @@ author_profile: true
 {% include base_path %}
 
 <!-- New style rendering if publication categories are defined -->
+<i>* Equal authorship</i>
 {% if site.publication_category %}
   {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
+    {% assign title_shown = false %}                  <!-- 用于判断是否显示分类标题，改成false -->
     {% for post in site.publications reversed %}
       {% if post.category != category[0] %}
         {% continue %}
       {% endif %}
-      {% unless title_shown %}
+      {% if title_shown %}
         <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
+        {% assign title_shown = false %}
+      {% endif %}
+      {% include archive-single-publications.html %}   <!-- 使用archive-single-publications.html -->
     {% endfor %}
   {% endfor %}
 {% else %}
   {% for post in site.publications reversed %}
-    {% include archive-single.html %}
+    {% include archive-single-publications.html %}
   {% endfor %}
 {% endif %}
-
-
-
