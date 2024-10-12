@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-# About me 
+<!-- # About me  -->
 
 Hi! I am currently a final-year undergraduate student in Wuhan University, majoring in Software Engineering. 
 
