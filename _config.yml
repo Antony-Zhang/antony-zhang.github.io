@@ -86,7 +86,7 @@ publication_category:
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
-future                   : true
+future                   : false  # 取消显示未来的文章
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false #change to true to add link to talkmap on talks page
 comments:
@@ -261,7 +261,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
+      share: false  # 取消分享按钮
       comments: true
   # _portfolio
   - scope:

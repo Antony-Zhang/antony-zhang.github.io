@@ -13,14 +13,21 @@ redirect_from:
 ## Education
 <!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 * M.S. in Jekyll, GitHub University, 2014 -->
-* B.E. in Software Engineering, Wuhan University, 2025 (expected)
+* B.Eng. in Software Engineering, Wuhan University, 2025 (expected)
 
 ## Research experience
 
-- **Data Analysis on Forward Flow Task** (Spring 2024)
-  - Research assistant (Remote) in NKLCNL, Beijing Normal University, China
-  - Duties included: Pre-processing words data on forward flow tasks, generating embeddings, computing statistical indicators, and analyzing correlation between indicators and participants’ scale scores;
-  - Supervisor: Professor Yunzhe Liu
+- Jul. 2024 - Oct. 2024: Research Intern 
+  - Wuhan University
+  - Paper(accepted): "Large Model Based Crossmodal Chinese Poetry Creation"
+  - Developed a large model based system that supports cross-modal input of text and image, provides interpretable annotations for generated Chinese poems, and supports multiple rounds of iterative optimization
+  - Refined the iterative optimization mechanism and the scoring system, and lead the evaluation of the system, comparing poem quality across three input modalities and testing optimization on three poem sets of varying quality
+  - Advisor: [Dr. Weiping Zhu](https://cs.whu.edu.cn/info/1019/2920.htm)
+
+- Apr. 2024 - Jun. 2024: Research Intern (remote)
+  - NKLCNL, Beijing Normal University
+  - Pre-processed words data on forward flow tasks, generated embeddings, and explored correlation between participants’ scale scores and statistical indicators, the latter includes sequence length, similarity of embedding, optimality divergence, range of semantic distance, and "forward flow"
+  - Advisor: [Prof. Yunzhe Liu](https://brain.bnu.edu.cn/kytd/jsyjy/Ljs/18e25c12984e48eb966932924b9b76c7.htm)
 
 <!-- * Summer 2015: Research Assistant
   * Github University
@@ -59,8 +66,8 @@ redirect_from:
 
 > You can download a PDF copy of my CV [here]({{base_path}}/files/CV_ZhidongZhang.pdf).
 
-
-<embed src="{{base_path}}/files/CV_ZhidongZhang.pdf" type="application/pdf" width="70%" height="500px">
+<iframe src="{{base_path}}/files/CV_ZhidongZhang.pdf" width="70%" height="500px"></iframe>
+<!-- <embed src="{{base_path}}/files/CV_ZhidongZhang.pdf" type="application/pdf" width="70%" height="500px"> -->
 
 
 <!-- ![CV_ZhidongZhang]({{base_path}}/files/CV_ZhidongZhang.pdf) -->
