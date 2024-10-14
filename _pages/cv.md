@@ -15,7 +15,7 @@ redirect_from:
 * M.S. in Jekyll, GitHub University, 2014 -->
 * B.Eng. in Software Engineering, Wuhan University, 2025 (expected)
 
-## Research experience
+## Research Experience
 
 - Jul. 2024 - Oct. 2024: Research Intern 
   - Advisor: [Dr. Weiping Zhu](https://cs.whu.edu.cn/info/1019/2920.htm), Wuhan University
@@ -35,7 +35,7 @@ redirect_from:
   * Duties included: Tagging issues
   * Supervisor: Professor Git -->
   
-## Projects experience
+## Project Experience
 
 - **The Working Memory Capacity of RNN models**  (Summer 2024)
   - Computational Neuroscience Program, [Neuromatch Academy](https://neuromatch.io)
@@ -69,7 +69,7 @@ redirect_from:
 
 > You can download a PDF copy of my CV [here]({{base_path}}/files/CV_ZhidongZhang.pdf).
 
-<iframe src="{{base_path}}/files/CV_ZhidongZhang.pdf" width="70%" height="500px"></iframe>
+<iframe src="{{base_path}}/files/CV_ZhidongZhang.pdf" width="80%" height="750px"></iframe>
 <!-- <embed src="{{base_path}}/files/CV_ZhidongZhang.pdf" type="application/pdf" width="70%" height="500px"> -->
 
 
