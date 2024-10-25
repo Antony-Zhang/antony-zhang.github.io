@@ -46,7 +46,7 @@ which pdftex    # /Library/TeX/texbin/pdftex
 which xelatex   # /Library/TeX/texbin/xelatex
 ```
 
-So it turns out that the **executable files** are in `/Library/TeX/texbin/`, which is not in the `PATH` environment variable. Thus we need to add it to the `PATH` to make it available in the terminal.
+So it turns out that the **executable files** are in `/Library/TeX/texbin/`. If it doesn't output like that, execute `$PATH` to check whether the path is well-prepared, otherwise, we need to add it to the `PATH` to make it available in the terminal.
 
 ```bash
 export PATH=$PATH:/Library/TeX/texbin # add the path to the PATH environment variable
