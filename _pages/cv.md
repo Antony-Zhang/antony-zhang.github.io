@@ -18,7 +18,7 @@ redirect_from:
 ## Research Experience
 
 - **RNN Analysis on Same-Different Task** (Sep. 2024 - Nov. 2024)
-  - Advisor :[Dr. Xiangbin Teng](https://www.psy.cuhk.edu.hk/index.php/component/sppagebuilder/?view=page&id=558), Chinese University of Hong Kong
+  - Advisor: [Dr. Xiangbin Teng](https://www.psy.cuhk.edu.hk/index.php/component/sppagebuilder/?view=page&id=558), Chinese University of Hong Kong
   - **Model Training:** Trained RNNs on the same-different task under varying noise levels by neurogym, optiomizing the code for readability and extensibility.
   - **Model Analysis:** Analyzed normalized averages and principal components (PCA) of RNN hidden states, performed linear fitting of activities at different time points to stimuli values, and analyzed the temporal scope.
 
@@ -48,7 +48,7 @@ redirect_from:
   
   <!-- - Developed a RNN-based model with parameters simulating biological factors contributing to working memory, and investigate the effects of each parameter as well as their interactions on the WM capacity. -->
 
-<!-- - **LLM-based Interactive Chinese Poetry Learning Assistant** (Fall 2023)
+  <!-- - **LLM-based Interactive Chinese Poetry Learning Assistant** (Fall 2023)
   - 2023 Large Models Scene Innovation Competition - Innovation Award (Top 8%) 
   - **Interface Design:** Designed the web interface and user-specific prompts for image production and text interaction.
   - **Module Development:** Developed modules incorporating online search and file analysis based on Retrieval-Augmented Generation (RAG). -->
